@@ -1,5 +1,5 @@
 {
-  "name": "@risingstack/nodehero-authentication",
+  "name": "Vladimir Shirokov",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RisingStack/nodehero-authentication.git"
+    "url": "git+https://github.com/VShirokov/node-auth"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RisingStack/nodehero-authentication/issues"
-  },
-  "homepage": "https://github.com/RisingStack/nodehero-authentication#readme",
   "dependencies": {
     "bcrypt": "1.0.2",
     "body-parser": "1.15.1",
